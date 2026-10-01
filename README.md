@@ -1,4 +1,4 @@
-# React Fundamentals Practice
+# ASC_React-Fundamentals-Activity-2
 
 1. Install a compatible Node.js version. See https://vite.dev/guide/ if a version warning appears.
 2. In this folder, run `npm install` and then `npm run dev`. Open the local URL in the terminal.
